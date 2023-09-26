@@ -96,3 +96,10 @@ body{
 .weather{
     display: none;
 }
+
+@media all and (max-width:440px){
+    .search input{
+        width: 25px;
+    }
+
+}
